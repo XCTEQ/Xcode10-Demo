@@ -5,7 +5,7 @@ At WWDC2018, Apple announced Xcode 10 with some great new features, this is a re
 This repository linked to the blog post explaining all features in details. Read 
 https://medium.com/xcblog/wwdc18-xcode-10-in-action-f56e14c62d79
 
-##USAGE
+## USAGE
 
 ##### Paralllel Testing 
 
